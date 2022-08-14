@@ -6,7 +6,15 @@ cuarta línea
 quinta línea
 sexta línea
 
+<<<<<<< HEAD
 séptima línea
 octava línea
 novena línea
 décima línea
+=======
+1
+2
+3
+4
+5
+>>>>>>> ramaNumeros
