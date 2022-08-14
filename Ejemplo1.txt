@@ -6,4 +6,8 @@ cuarta línea
 quinta línea
 sexta línea
 
-séptima línea
+1
+2
+3
+4
+5
